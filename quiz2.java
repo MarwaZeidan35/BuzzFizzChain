@@ -21,7 +21,7 @@ public class quiz2
         else  if( (i % 5 == 0) && (i % 3 == 0) )
             {
                 flag = true;
-                System.out.print("Buzz");
+                System.out.print("FizzBuzz");
             }
 
             
